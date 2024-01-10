@@ -1,10 +1,6 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
-using System.Xml;
-using System.Xml.Serialization;
 using TMPro;
 
 public class SaveLoadTest : MonoBehaviour
@@ -14,13 +10,15 @@ public class SaveLoadTest : MonoBehaviour
 
     [SerializeField]
     TMP_InputField myInputField;
+
+    string filePath = "SaveData\\Profile1";
     
     // Start is called before the first frame update
     void Start()
     {
         myName = new NameData();
 
-        LoadData();
+        LoadProfile();
     }
 
     public void ChangeName(string newName)
@@ -28,22 +26,34 @@ public class SaveLoadTest : MonoBehaviour
         myName.playerName = newName;
     }
 
-    public void SaveData()
+    public void LoadProfile()
     {
-        Stream stream = File.Open("PlayerData", FileMode.Create);
-        XmlSerializer serializer = new XmlSerializer(typeof(NameData));
-        serializer.Serialize(stream, myName);
-        stream.Close();
-    }
-
-    public void LoadData()
-    {
-        Stream stream = File.Open("PlayerData", FileMode.Open);
-        XmlSerializer serializer = new XmlSerializer(typeof(NameData));
-        myName = (NameData)serializer.Deserialize(stream);
-        stream.Close();
+        SaveManager.LoadData(filePath + "\\PlayerData", ref  myName);
 
         myInputField.text = myName.playerName;
+    }
+
+    public void SaveProfile()
+    {
+        CreateFileStructure();
+
+        SaveManager.SaveData(filePath + "\\PlayerData", ref myName);
+    }
+
+    
+
+    void CreateFileStructure()
+    {
+        // Determine whether the directory exists.
+        if (Directory.Exists(filePath))
+        {
+            Debug.Log("Folder structure already exists");         
+        }
+        else
+        {
+            // Try to create the directory.
+            Directory.CreateDirectory(filePath);
+        }
     }
 }
 
