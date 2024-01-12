@@ -1,3 +1,10 @@
+using System;
+
+[Serializable]
+public struct NameData
+{
+    public string playerName;
+}
 public struct CharacterData
 {
     string char_Name;
