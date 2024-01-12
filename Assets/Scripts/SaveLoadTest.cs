@@ -1,9 +1,8 @@
-using System;
 using UnityEngine;
 using System.IO;
 using TMPro;
 using UnityEngine.UI;
-using System.Reflection;
+using UnityEngine.EventSystems;
 
 public class SaveLoadTest : MonoBehaviour
 {
@@ -14,12 +13,16 @@ public class SaveLoadTest : MonoBehaviour
     TMP_InputField myInputField;
 
     [SerializeField]
-    Button saveButton;
-
-    [SerializeField]
     Button[] profileButtons;
 
-    string filePath = "SaveData\\";
+    [SerializeField]
+    GameObject namePanel;
+
+    [SerializeField]
+    Button deleteButton;
+
+    string rootPath = "SaveData\\";
+    string filePath;
     int selectedProfile;
 
     // Start is called before the first frame update
@@ -27,24 +30,13 @@ public class SaveLoadTest : MonoBehaviour
     {
         myName = new NameData();
 
-        LoadProfile();
-    }
-
-    private void Update()
-    {
-        if (selectedProfile == 0)
-        {
-            saveButton.interactable = false;
-        }
-        else
-        {
-            saveButton.interactable = true;
-        }
+        UpdateProfileButtons();
     }
 
     public void ChangeName(string newName)
     {
         myName.playerName = newName;
+        SaveProfile();
     }
 
     public void LoadProfile()
@@ -60,14 +52,26 @@ public class SaveLoadTest : MonoBehaviour
 
         if (profileName != null)
         {
-            filePath = "SaveData\\" + profileName; ;
+            namePanel.SetActive(false);
+            
+            filePath = rootPath + profileName;
+
+            if (!Directory.Exists(filePath))
+            {
+                CreateFileStructure();
+
+                SaveManager.SaveData(filePath + "\\PlayerData.sav", ref myName);
+
+                profileButtons[selectedProfile - 1].GetComponentInChildren<TMP_Text>().text = myInputField.text;
+            }
+            else 
+            {
+                // TODO:: Add a modal panel to display this message.
+                Debug.Log("Profile already exists");
+            }
         }
 
-        CreateFileStructure();
-
-        SaveManager.SaveData(filePath + "\\PlayerData.sav", ref myName);
-
-        profileButtons[selectedProfile - 1].GetComponentInChildren<TMP_Text>().text = myInputField.text;
+        
     }
 
     void CreateFileStructure()
@@ -84,6 +88,18 @@ public class SaveLoadTest : MonoBehaviour
         }
     }
 
+    void UpdateProfileButtons()
+    {
+        DirectoryInfo di = new DirectoryInfo(rootPath);
+
+        DirectoryInfo[] diArr = di.GetDirectories();
+
+        for (int i = 0; i < diArr.Length && i < profileButtons.Length; i++)
+        {
+            profileButtons[i].GetComponentInChildren<TMP_Text>().text = diArr[i].Name;
+        }
+    }
+
     public void SelectProfile(int index)
     {
         selectedProfile = index;
@@ -92,9 +108,28 @@ public class SaveLoadTest : MonoBehaviour
 
         if (profileButtons[index - 1].GetComponentInChildren<TMP_Text>().text != "Empty")
         {
-            filePath = "SaveData\\" + profileName;
+            namePanel.SetActive(false);
+            deleteButton.interactable = true;
+            filePath = rootPath + profileName;
+            LoadProfile();
         }
-        
-        LoadProfile();
+        else
+        {
+            myInputField.text = null;
+            namePanel.SetActive(true);
+            deleteButton.interactable = false;
+
+            EventSystem.current.SetSelectedGameObject(myInputField.gameObject, null);
+        }
+    }
+
+    public void DeleteProfile()
+    {
+        if (Directory.Exists(filePath))
+        {
+            // Try to delete the directory.
+            Directory.Delete(filePath, true);
+            profileButtons[selectedProfile - 1].GetComponentInChildren<TMP_Text>().text = "Empty";
+        }
     }
 }
