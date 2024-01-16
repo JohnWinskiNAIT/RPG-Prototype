@@ -7,7 +7,7 @@ public struct NameData
 }
 public struct CharacterData
 {
-    string char_Name;
+    public string char_Name;
     int char_ID;
     int char_STR;
     int char_DEX;

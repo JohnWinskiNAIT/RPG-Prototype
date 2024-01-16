@@ -21,6 +21,9 @@ public class SaveLoadTest : MonoBehaviour
     [SerializeField]
     Button deleteButton;
 
+    [SerializeField]
+    CharacterData myChar;
+
     string rootPath = "SaveData\\";
     string filePath;
     int selectedProfile;
@@ -31,6 +34,8 @@ public class SaveLoadTest : MonoBehaviour
         myName = new NameData();
 
         UpdateProfileButtons();
+
+        GameManager.currentChar.char_Name = myChar.char_Name;
     }
 
     public void ChangeName(string newName)
