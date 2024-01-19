@@ -8,9 +8,9 @@ public struct NameData
 public struct CharacterData
 {
     public string char_Name;
-    int char_ID;
-    int char_STR;
-    int char_DEX;
-    int char_CON;
-    int char_Model;
+    public int char_ID;
+    public int char_STR;
+    public int char_DEX;
+    public int char_CON;
+    public int char_Model;
 }
