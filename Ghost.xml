@@ -2,3083 +2,2163 @@
 <GhostDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <myGhostPos>
     <GhostPosition>
-      <xPos>0</xPos>
+      <xPos>0.2056834</xPos>
       <yPos>1.5</yPos>
-      <zPos>0</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.0007260097</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.00424726773</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.010231968</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.0229195189</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.037434604</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.055719018</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.07690936</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.09498498</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.132877558</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.16513373</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.201687455</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.245011866</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.2859441</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.333685815</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.3865888</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.4356938</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.4909031</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.553926945</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.6169677</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.6723678</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.7394685</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>0</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.7930077</zPos>
-      <xRot>-0</xRot>
-      <yRot>0</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.43814224E-06</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.8562302</zPos>
-      <xRot>-0</xRot>
-      <yRot>359.966827</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-0.000103328028</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.9192433</zPos>
-      <xRot>-0</xRot>
-      <yRot>359.81134</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-0.0003964381</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.977656066</zPos>
-      <xRot>-0</xRot>
-      <yRot>359.5465</yRot>
+      <zPos>-1.22153473</zPos>
+      <xRot>0</xRot>
+      <yRot>274.8231</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.0009828936</xPos>
+      <xPos>0.147806525</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.03419864</zPos>
-      <xRot>-0</xRot>
-      <yRot>359.182068</yRot>
+      <zPos>-1.21662414</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.00195638137</xPos>
+      <xPos>0.0898435041</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.08988833</zPos>
-      <xRot>-0</xRot>
-      <yRot>358.7195</yRot>
+      <zPos>-1.211693</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.00373432646</xPos>
+      <xPos>0.0273769461</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.15532017</zPos>
-      <xRot>-0</xRot>
-      <yRot>358.043671</yRot>
+      <zPos>-1.20637882</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.00606146548</xPos>
+      <xPos>-0.0300695449</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.214306</zPos>
-      <xRot>-0</xRot>
-      <yRot>357.312744</yRot>
+      <zPos>-1.20149171</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.00926097948</xPos>
+      <xPos>-0.08861188</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.27443337</zPos>
-      <xRot>-0</xRot>
-      <yRot>356.447144</yRot>
+      <zPos>-1.19651127</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.0137431454</xPos>
+      <xPos>-0.15217638</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.33864844</zPos>
-      <xRot>-0</xRot>
-      <yRot>355.3874</yRot>
+      <zPos>-1.19110358</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.0183281545</xPos>
+      <xPos>-0.212575018</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.391012</zPos>
-      <xRot>-0</xRot>
-      <yRot>354.4199</yRot>
+      <zPos>-1.1859653</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.02558953</xPos>
+      <xPos>-0.270563155</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.45818627</zPos>
-      <xRot>-0</xRot>
-      <yRot>353.041779</yRot>
+      <zPos>-1.18103218</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.03267006</xPos>
+      <xPos>-0.328739583</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.51228225</zPos>
-      <xRot>-0</xRot>
-      <yRot>351.8172</yRot>
+      <zPos>-1.17608285</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.0419111438</xPos>
+      <xPos>-0.392572522</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.57196069</zPos>
-      <xRot>-0</xRot>
-      <yRot>350.346649</yRot>
+      <zPos>-1.17065227</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.0526226126</xPos>
+      <xPos>-0.450525671</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.63081992</zPos>
-      <xRot>-0</xRot>
-      <yRot>348.769684</yRot>
+      <zPos>-1.16572189</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.06538006</xPos>
+      <xPos>-0.5091863</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.69182074</zPos>
-      <xRot>-0</xRot>
-      <yRot>346.987457</yRot>
+      <zPos>-1.16073132</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.0799108744</xPos>
+      <xPos>-0.569205046</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.75093591</zPos>
-      <xRot>-0</xRot>
-      <yRot>345.1351</yRot>
+      <zPos>-1.15562522</zPos>
+      <xRot>0</xRot>
+      <yRot>274.862671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.09655416</xPos>
+      <xPos>-0.63114655</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.81011474</zPos>
-      <xRot>-0</xRot>
-      <yRot>343.138184</yRot>
+      <zPos>-1.15036118</zPos>
+      <xRot>0</xRot>
+      <yRot>274.834076</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.113255739</xPos>
+      <xPos>-0.688824654</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.862692</zPos>
-      <xRot>-0</xRot>
-      <yRot>341.299225</yRot>
+      <zPos>-1.14553523</zPos>
+      <xRot>0</xRot>
+      <yRot>274.6981</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.133745015</xPos>
+      <xPos>-0.746258736</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.920415</zPos>
-      <xRot>-0</xRot>
-      <yRot>339.257416</yRot>
+      <zPos>-1.14091635</zPos>
+      <xRot>0</xRot>
+      <yRot>274.451843</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.1542415</xPos>
+      <xPos>-0.8100169</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.97240782</zPos>
-      <xRot>-0</xRot>
-      <yRot>337.39444</yRot>
+      <zPos>-1.13614428</zPos>
+      <xRot>0</xRot>
+      <yRot>274.049683</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.180824831</xPos>
+      <xPos>-0.867563844</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.03334665</zPos>
-      <xRot>-0</xRot>
-      <yRot>335.178162</yRot>
+      <zPos>-1.13227844</zPos>
+      <xRot>0</xRot>
+      <yRot>273.570038</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.207337633</xPos>
+      <xPos>-0.9314609</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.088452</zPos>
-      <xRot>-0</xRot>
-      <yRot>333.139648</yRot>
+      <zPos>-1.12861633</zPos>
+      <xRot>0</xRot>
+      <yRot>272.907959</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.2329133</xPos>
+      <xPos>-0.9894303</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.13732743</zPos>
-      <xRot>-0</xRot>
-      <yRot>331.3008</yRot>
+      <zPos>-1.12599</zPos>
+      <xRot>0</xRot>
+      <yRot>272.189636</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.263824433</xPos>
+      <xPos>-1.04629135</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.19176054</zPos>
-      <xRot>-0</xRot>
-      <yRot>329.2141</yRot>
+      <zPos>-1.12417054</zPos>
+      <xRot>0</xRot>
+      <yRot>271.376556</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.294522017</xPos>
+      <xPos>-1.1105504</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.24161839</zPos>
-      <xRot>-0</xRot>
-      <yRot>327.262329</yRot>
+      <zPos>-1.12314832</zPos>
+      <xRot>0</xRot>
+      <yRot>270.328125</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.3278141</xPos>
+      <xPos>-1.16984653</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.291829</zPos>
-      <xRot>-0</xRot>
-      <yRot>325.254028</yRot>
+      <zPos>-1.123306</zPos>
+      <xRot>0</xRot>
+      <yRot>269.238525</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.362562358</xPos>
+      <xPos>-1.22833526</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.34034562</zPos>
-      <xRot>-0</xRot>
-      <yRot>323.2647</yRot>
+      <zPos>-1.12462056</zPos>
+      <xRot>0</xRot>
+      <yRot>268.048737</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.401515752</xPos>
+      <xPos>-1.2913717</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.3908577</zPos>
-      <xRot>-0</xRot>
-      <yRot>321.138336</yRot>
+      <zPos>-1.12746263</zPos>
+      <xRot>0</xRot>
+      <yRot>266.6377</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.437314719</xPos>
+      <xPos>-1.347834</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.43403983</zPos>
-      <xRot>-0</xRot>
-      <yRot>319.268524</yRot>
+      <zPos>-1.131385</zPos>
+      <xRot>0</xRot>
+      <yRot>265.259216</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.4793574</xPos>
+      <xPos>-1.40667486</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.481368</zPos>
-      <xRot>-0</xRot>
-      <yRot>317.158234</yRot>
+      <zPos>-1.13697815</zPos>
+      <xRot>0</xRot>
+      <yRot>263.705353</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.507837534</xPos>
+      <xPos>-1.468402</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.51149154</zPos>
-      <xRot>-0</xRot>
-      <yRot>315.776367</yRot>
+      <zPos>-1.14464021</zPos>
+      <xRot>0</xRot>
+      <yRot>261.944031</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.561048269</xPos>
+      <xPos>-1.52408171</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.564208</zPos>
-      <xRot>-0</xRot>
-      <yRot>313.279358</yRot>
+      <zPos>-1.15326512</zPos>
+      <xRot>0</xRot>
+      <yRot>260.237244</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.605179667</xPos>
+      <xPos>-1.58225429</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.60455847</zPos>
-      <xRot>-0</xRot>
-      <yRot>311.286</yRot>
+      <zPos>-1.16412461</zPos>
+      <xRot>0</xRot>
+      <yRot>258.328674</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.6498836</xPos>
+      <xPos>-1.64228952</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.6426723</zPos>
-      <xRot>-0</xRot>
-      <yRot>309.3277</yRot>
+      <zPos>-1.17752337</zPos>
+      <xRot>0</xRot>
+      <yRot>256.278168</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.69639045</xPos>
+      <xPos>-1.70463932</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.67967224</zPos>
-      <xRot>-0</xRot>
-      <yRot>307.3466</yRot>
+      <zPos>-1.19386733</zPos>
+      <xRot>0</xRot>
+      <yRot>254.129517</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.7485115</xPos>
+      <xPos>-1.75860488</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.718137</zPos>
-      <xRot>-0</xRot>
-      <yRot>305.1872</yRot>
+      <zPos>-1.20938766</zPos>
+      <xRot>0</xRot>
+      <yRot>253.9588</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.797486067</xPos>
+      <xPos>-1.81523478</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.7515986</zPos>
-      <xRot>-0</xRot>
-      <yRot>303.209961</yRot>
+      <zPos>-1.22561193</zPos>
+      <xRot>0</xRot>
+      <yRot>254.104736</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.846661866</xPos>
+      <xPos>-1.8751024</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.78281784</zPos>
-      <xRot>-0</xRot>
-      <yRot>301.268219</yRot>
+      <zPos>-1.24253058</zPos>
+      <xRot>0</xRot>
+      <yRot>254.383255</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.8982311</xPos>
+      <xPos>-1.93458247</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.8131032</zPos>
-      <xRot>-0</xRot>
-      <yRot>299.274628</yRot>
+      <zPos>-1.258965</zPos>
+      <xRot>0</xRot>
+      <yRot>254.78688</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.9480945</xPos>
+      <xPos>-1.99206686</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.84013844</zPos>
-      <xRot>-0</xRot>
-      <yRot>297.38382</yRot>
+      <zPos>-1.27436388</zPos>
+      <xRot>0</xRot>
+      <yRot>255.296829</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.994220436</xPos>
+      <xPos>-2.04833031</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.86330748</zPos>
-      <xRot>-0</xRot>
-      <yRot>295.6632</yRot>
+      <zPos>-1.28885245</zPos>
+      <xRot>0</xRot>
+      <yRot>255.908417</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.05975926</xPos>
+      <xPos>-2.10609412</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.89337564</zPos>
-      <xRot>-0</xRot>
-      <yRot>293.2594</yRot>
+      <zPos>-1.30300593</zPos>
+      <xRot>0</xRot>
+      <yRot>256.650452</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.11941612</xPos>
+      <xPos>-2.16568184</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.918144</zPos>
-      <xRot>-0</xRot>
-      <yRot>291.10614</yRot>
+      <zPos>-1.31672049</zPos>
+      <xRot>0</xRot>
+      <yRot>257.53653</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.17583692</xPos>
+      <xPos>-2.22347379</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.93897939</zPos>
-      <xRot>-0</xRot>
-      <yRot>289.101227</yRot>
+      <zPos>-1.32904112</zPos>
+      <xRot>0</xRot>
+      <yRot>258.511017</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.23228824</xPos>
+      <xPos>-2.28158188</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.9576292</zPos>
-      <xRot>-0</xRot>
-      <yRot>287.1194</yRot>
+      <zPos>-1.34034359</zPos>
+      <xRot>0</xRot>
+      <yRot>259.603943</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.28825057</xPos>
+      <xPos>-2.34377027</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.97400761</zPos>
-      <xRot>-0</xRot>
-      <yRot>285.175629</yRot>
+      <zPos>-1.35110688</zPos>
+      <xRot>0</xRot>
+      <yRot>260.8977</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.34470868</xPos>
+      <xPos>-2.4014256</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.98844528</zPos>
-      <xRot>-0</xRot>
-      <yRot>283.233032</yRot>
+      <zPos>-1.35974514</zPos>
+      <xRot>0</xRot>
+      <yRot>262.210846</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.40327179</xPos>
+      <xPos>-2.45971084</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.00131273</zPos>
-      <xRot>-0</xRot>
-      <yRot>281.234222</yRot>
+      <zPos>-1.36705852</zPos>
+      <xRot>0</xRot>
+      <yRot>263.64856</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.46575379</xPos>
+      <xPos>-2.52438712</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.012712</zPos>
-      <xRot>-0</xRot>
-      <yRot>279.117</yRot>
+      <zPos>-1.37337673</zPos>
+      <xRot>0</xRot>
+      <yRot>265.373169</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.5252322</xPos>
+      <xPos>-2.58047986</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.021346</zPos>
-      <xRot>-0</xRot>
-      <yRot>277.113525</yRot>
+      <zPos>-1.37721407</zPos>
+      <xRot>0</xRot>
+      <yRot>266.978577</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.58443415</xPos>
+      <xPos>-2.64343977</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.0278542</zPos>
-      <xRot>-0</xRot>
-      <yRot>275.128143</yRot>
+      <zPos>-1.37958634</zPos>
+      <xRot>0</xRot>
+      <yRot>268.902924</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.6412555</xPos>
+      <xPos>-2.70220232</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.03217053</zPos>
-      <xRot>-0</xRot>
-      <yRot>273.228577</yRot>
+      <zPos>-1.37983811</zPos>
+      <xRot>0</xRot>
+      <yRot>270.8164</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.70156372</xPos>
+      <xPos>-2.761081</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.034731</zPos>
-      <xRot>-0</xRot>
-      <yRot>271.21637</yRot>
+      <zPos>-1.37809134</zPos>
+      <xRot>0</xRot>
+      <yRot>272.78</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.75817549</xPos>
+      <xPos>-2.81895852</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.03513527</zPos>
-      <xRot>-0</xRot>
-      <yRot>269.3292</yRot>
+      <zPos>-1.37439978</zPos>
+      <xRot>0</xRot>
+      <yRot>274.7133</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.8180207</xPos>
+      <xPos>-2.88275337</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.033548</zPos>
-      <xRot>-0</xRot>
-      <yRot>267.333557</yRot>
+      <zPos>-1.36804986</zPos>
+      <xRot>0</xRot>
+      <yRot>276.8504</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.88451159</xPos>
+      <xPos>-2.939012</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.02937245</zPos>
-      <xRot>-0</xRot>
-      <yRot>265.112671</yRot>
+      <zPos>-1.36045194</zPos>
+      <xRot>0</xRot>
+      <yRot>278.7428</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.94242334</xPos>
+      <xPos>-2.99979353</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.0235765</zPos>
-      <xRot>-0</xRot>
-      <yRot>263.172546</yRot>
+      <zPos>-1.350098</zPos>
+      <xRot>0</xRot>
+      <yRot>280.798157</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.99673939</xPos>
+      <xPos>-3.06100821</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.016352</zPos>
-      <xRot>-0</xRot>
-      <yRot>261.346</yRot>
+      <zPos>-1.33738172</zPos>
+      <xRot>0</xRot>
+      <yRot>282.882324</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.06040764</xPos>
+      <xPos>-3.116378</xPos>
       <yPos>1.5</yPos>
-      <zPos>3.00561976</zPos>
-      <xRot>-0</xRot>
-      <yRot>259.1937</yRot>
+      <zPos>-1.32385707</zPos>
+      <xRot>0</xRot>
+      <yRot>284.782318</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.114494</xPos>
+      <xPos>-3.17113471</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.99452448</zPos>
-      <xRot>-0</xRot>
-      <yRot>257.35318</yRot>
+      <zPos>-1.30854368</zPos>
+      <xRot>0</xRot>
+      <yRot>286.677643</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.17662787</xPos>
+      <xPos>-3.22968459</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.97956276</zPos>
-      <xRot>-0</xRot>
-      <yRot>255.222717</yRot>
+      <zPos>-1.290021</zPos>
+      <xRot>0</xRot>
+      <yRot>288.724731</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.22634029</xPos>
+      <xPos>-3.28795576</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.9657855</zPos>
-      <xRot>-0</xRot>
-      <yRot>253.503113</yRot>
+      <zPos>-1.26921129</zPos>
+      <xRot>0</xRot>
+      <yRot>290.787354</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.29148269</xPos>
+      <xPos>-3.345313</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.94526625</zPos>
-      <xRot>-0</xRot>
-      <yRot>251.22641</yRot>
+      <zPos>-1.24638557</zPos>
+      <xRot>0</xRot>
+      <yRot>292.845184</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.34801531</xPos>
+      <xPos>-3.40080523</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.92520523</zPos>
-      <xRot>-0</xRot>
-      <yRot>249.226761</yRot>
+      <zPos>-1.221981</zPos>
+      <xRot>0</xRot>
+      <yRot>294.865967</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.4008007</xPos>
+      <xPos>-3.45228171</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.90432572</zPos>
-      <xRot>-0</xRot>
-      <yRot>247.334534</yRot>
+      <zPos>-1.19719338</zPos>
+      <xRot>0</xRot>
+      <yRot>296.7705</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.45940375</xPos>
+      <xPos>-3.50476265</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.87876964</zPos>
-      <xRot>-0</xRot>
-      <yRot>245.203278</yRot>
+      <zPos>-1.16970217</zPos>
+      <xRot>0</xRot>
+      <yRot>298.745453</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.51229835</xPos>
+      <xPos>-3.558892</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.85338974</zPos>
-      <xRot>-0</xRot>
-      <yRot>243.24762</yRot>
+      <zPos>-1.13884068</zPos>
+      <xRot>0</xRot>
+      <yRot>300.8225</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.565707</xPos>
+      <xPos>-3.608315</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.82545877</zPos>
-      <xRot>-0</xRot>
-      <yRot>241.238464</yRot>
+      <zPos>-1.10833812</zPos>
+      <xRot>0</xRot>
+      <yRot>302.758545</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.60631323</xPos>
+      <xPos>-3.6607852</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.80259919</zPos>
-      <xRot>-0</xRot>
-      <yRot>239.685135</yRot>
+      <zPos>-1.07333958</zPos>
+      <xRot>0</xRot>
+      <yRot>304.861023</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.66567373</xPos>
+      <xPos>-3.70953417</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.76675034</zPos>
-      <xRot>-0</xRot>
-      <yRot>237.373367</yRot>
+      <zPos>-1.03824556</zPos>
+      <xRot>0</xRot>
+      <yRot>306.863373</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.72135353</xPos>
+      <xPos>-3.754847</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.72981119</zPos>
-      <xRot>-0</xRot>
-      <yRot>235.145935</yRot>
+      <zPos>-1.00321043</zPos>
+      <xRot>0</xRot>
+      <yRot>308.7727</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.76653171</xPos>
+      <xPos>-3.80059147</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.69741225</zPos>
-      <xRot>-0</xRot>
-      <yRot>233.292725</yRot>
+      <zPos>-0.9652811</zPos>
+      <xRot>0</xRot>
+      <yRot>310.7536</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.81671357</xPos>
+      <xPos>-3.84817529</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.65876317</zPos>
-      <xRot>-0</xRot>
-      <yRot>231.181244</yRot>
+      <zPos>-0.9228735</zPos>
+      <xRot>0</xRot>
+      <yRot>312.878357</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.858853</xPos>
+      <xPos>-3.88770843</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.623959</zPos>
-      <xRot>-0</xRot>
-      <yRot>229.359375</yRot>
+      <zPos>-0.885115147</zPos>
+      <xRot>0</xRot>
+      <yRot>314.700684</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.90272522</xPos>
+      <xPos>-3.930327</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.58518434</zPos>
-      <xRot>-0</xRot>
-      <yRot>227.4076</yRot>
+      <zPos>-0.8415732</zPos>
+      <xRot>0</xRot>
+      <yRot>316.73172</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.95215</xPos>
+      <xPos>-3.97085214</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.5381453</zPos>
-      <xRot>-0</xRot>
-      <yRot>225.133057</yRot>
+      <zPos>-0.7971455</zPos>
+      <xRot>0</xRot>
+      <yRot>318.7363</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.99072862</xPos>
+      <xPos>-4.00598335</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.49873424</zPos>
-      <xRot>-0</xRot>
-      <yRot>223.294632</yRot>
+      <zPos>-0.755959</zPos>
+      <xRot>0</xRot>
+      <yRot>320.540833</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.034834</xPos>
+      <xPos>-4.04776955</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.45031071</zPos>
-      <xRot>-0</xRot>
-      <yRot>221.1112</yRot>
+      <zPos>-0.7033926</zPos>
+      <xRot>0</xRot>
+      <yRot>322.779419</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.07394</xPos>
+      <xPos>-4.08466</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.40412045</zPos>
-      <xRot>-0</xRot>
-      <yRot>219.093735</yRot>
+      <zPos>-0.653190434</zPos>
+      <xRot>0</xRot>
+      <yRot>324.856171</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.10471773</xPos>
+      <xPos>-4.118195</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.36531186</zPos>
-      <xRot>-0</xRot>
-      <yRot>217.442581</yRot>
+      <zPos>-0.6039594</zPos>
+      <xRot>0</xRot>
+      <yRot>326.841827</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.144725</xPos>
+      <xPos>-4.150803</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.311207</zPos>
-      <xRot>-0</xRot>
-      <yRot>215.199448</yRot>
+      <zPos>-0.55229</zPos>
+      <xRot>0</xRot>
+      <yRot>328.87854</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.17717052</xPos>
+      <xPos>-4.18108463</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.26378679</zPos>
-      <xRot>-0</xRot>
-      <yRot>213.2841</yRot>
+      <zPos>-0.5003262</zPos>
+      <xRot>0</xRot>
+      <yRot>330.883423</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.20870566</xPos>
+      <xPos>-4.20937347</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.2142005</zPos>
-      <xRot>-0</xRot>
-      <yRot>211.325226</yRot>
+      <zPos>-0.447646022</zPos>
+      <xRot>0</xRot>
+      <yRot>332.876678</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.2422564</xPos>
+      <xPos>-4.2357</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.15692687</zPos>
-      <xRot>-0</xRot>
-      <yRot>209.112534</yRot>
+      <zPos>-0.394242316</zPos>
+      <xRot>0</xRot>
+      <yRot>334.86145</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.26642942</xPos>
+      <xPos>-4.258866</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.11223555</zPos>
-      <xRot>-0</xRot>
-      <yRot>207.418808</yRot>
+      <zPos>-0.342946321</zPos>
+      <xRot>0</xRot>
+      <yRot>336.7377</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.29611659</xPos>
+      <xPos>-4.28140926</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.05259943</zPos>
-      <xRot>-0</xRot>
-      <yRot>205.1981</yRot>
+      <zPos>-0.288223147</zPos>
+      <xRot>0</xRot>
+      <yRot>338.7106</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.31723118</xPos>
+      <xPos>-4.30126572</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.00625134</zPos>
-      <xRot>-0</xRot>
-      <yRot>203.500366</yRot>
+      <zPos>-0.234966934</zPos>
+      <xRot>0</xRot>
+      <yRot>340.605255</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.342723</xPos>
+      <xPos>-4.322362</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.94483125</zPos>
-      <xRot>-0</xRot>
-      <yRot>201.283539</yRot>
+      <zPos>-0.171526</zPos>
+      <xRot>0</xRot>
+      <yRot>342.833984</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.36331987</xPos>
+      <xPos>-4.338977</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.88959229</zPos>
-      <xRot>-0</xRot>
-      <yRot>199.3183</yRot>
+      <zPos>-0.114727244</zPos>
+      <xRot>0</xRot>
+      <yRot>344.8067</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.382562</xPos>
+      <xPos>-4.35239172</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.83192718</zPos>
-      <xRot>-0</xRot>
-      <yRot>197.291824</yRot>
+      <zPos>-0.0625117645</zPos>
+      <xRot>0</xRot>
+      <yRot>346.6038</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.400597</xPos>
+      <xPos>-4.36655045</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.77062452</zPos>
-      <xRot>-0</xRot>
-      <yRot>195.161667</yRot>
+      <zPos>0.00155835832</zPos>
+      <xRot>0</xRot>
+      <yRot>348.7911</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.4145627</xPos>
+      <xPos>-4.377296</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.71610844</zPos>
-      <xRot>-0</xRot>
-      <yRot>193.285721</yRot>
+      <zPos>0.06056656</zPos>
+      <xRot>0</xRot>
+      <yRot>350.7905</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.42740655</xPos>
+      <xPos>-4.385759</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.65787137</zPos>
-      <xRot>-0</xRot>
-      <yRot>191.297745</yRot>
+      <zPos>0.118340313</zPos>
+      <xRot>0</xRot>
+      <yRot>352.736938</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.43887854</xPos>
+      <xPos>-4.39277172</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.59534013</zPos>
-      <xRot>-0</xRot>
-      <yRot>189.178467</yRot>
+      <zPos>0.181908056</zPos>
+      <xRot>0</xRot>
+      <yRot>354.868866</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.44727921</xPos>
+      <xPos>-4.39719057</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.53866959</zPos>
-      <xRot>-0</xRot>
-      <yRot>187.268723</yRot>
+      <zPos>0.241593823</zPos>
+      <xRot>0</xRot>
+      <yRot>356.863922</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.45415664</xPos>
+      <xPos>-4.39954233</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.47705758</zPos>
-      <xRot>-0</xRot>
-      <yRot>185.202118</yRot>
+      <zPos>0.3018953</zPos>
+      <xRot>0</xRot>
+      <yRot>358.8756</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.45871973</xPos>
+      <xPos>-4.39985275</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.41696</zPos>
+      <zPos>0.355543584</zPos>
       <xRot>-0</xRot>
-      <yRot>183.193008</yRot>
+      <yRot>0.6639721</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.46112776</xPos>
+      <xPos>-4.398085</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.35955858</zPos>
+      <zPos>0.418569684</zPos>
       <xRot>-0</xRot>
-      <yRot>181.277863</yRot>
+      <yRot>2.76578355</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.46158528</xPos>
+      <xPos>-4.39427</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.30079746</zPos>
+      <zPos>0.4782174</zPos>
       <xRot>-0</xRot>
-      <yRot>179.319016</yRot>
+      <yRot>4.758203</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.4599297</xPos>
+      <xPos>-4.388486</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.23968375</zPos>
+      <zPos>0.536782146</zPos>
       <xRot>-0</xRot>
-      <yRot>177.281052</yRot>
+      <yRot>6.71995974</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.45604348</xPos>
+      <xPos>-4.38005972</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.17777419</zPos>
+      <zPos>0.599401</zPos>
       <xRot>-0</xRot>
-      <yRot>175.213211</yRot>
+      <yRot>8.826194</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.449976</xPos>
+      <xPos>-4.37050152</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.115275</zPos>
+      <zPos>0.655526161</zPos>
       <xRot>-0</xRot>
-      <yRot>173.120041</yRot>
+      <yRot>10.7240524</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.44247413</xPos>
+      <xPos>-4.35846233</xPos>
       <yPos>1.5</yPos>
-      <zPos>1.05975366</zPos>
+      <zPos>0.714069545</zPos>
       <xRot>-0</xRot>
-      <yRot>171.252426</yRot>
+      <yRot>12.7164307</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.43180466</xPos>
+      <xPos>-4.343195</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.997000337</zPos>
+      <zPos>0.776812255</zPos>
       <xRot>-0</xRot>
-      <yRot>169.130508</yRot>
+      <yRot>14.8690109</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.42043185</xPos>
+      <xPos>-4.327978</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.9418121</zPos>
+      <zPos>0.8309464</zPos>
       <xRot>-0</xRot>
-      <yRot>167.252167</yRot>
+      <yRot>16.7434959</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.40582871</xPos>
+      <xPos>-4.308626</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.8816731</zPos>
+      <zPos>0.891559</zPos>
       <xRot>-0</xRot>
-      <yRot>165.189163</yRot>
+      <yRot>18.8645267</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.38920021</xPos>
+      <xPos>-4.288804</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.8224404</zPos>
+      <zPos>0.9468282</zPos>
       <xRot>-0</xRot>
-      <yRot>163.138321</yRot>
+      <yRot>20.8218365</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.37216425</xPos>
+      <xPos>-4.267901</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.768920064</zPos>
+      <zPos>0.9994613</zPos>
       <xRot>-0</xRot>
-      <yRot>161.266022</yRot>
+      <yRot>22.7096481</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.35289955</xPos>
+      <xPos>-4.24225</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.71466434</zPos>
+      <zPos>1.05799282</zPos>
       <xRot>-0</xRot>
-      <yRot>159.346786</yRot>
+      <yRot>24.8399487</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.330783</xPos>
+      <xPos>-4.217855</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.6585572</zPos>
+      <zPos>1.1087414</zPos>
       <xRot>-0</xRot>
-      <yRot>157.33638</yRot>
+      <yRot>26.7169456</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.305629</xPos>
+      <xPos>-4.18978262</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.6008509</zPos>
+      <zPos>1.16238511</zPos>
       <xRot>-0</xRot>
-      <yRot>155.23793</yRot>
+      <yRot>28.73521</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.27831554</xPos>
+      <xPos>-4.159612</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.5439907</zPos>
+      <zPos>1.21541584</zPos>
       <xRot>-0</xRot>
-      <yRot>153.135132</yRot>
+      <yRot>30.7690773</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.25342917</xPos>
+      <xPos>-4.126799</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.496441871</zPos>
+      <zPos>1.26850522</zPos>
       <xRot>-0</xRot>
-      <yRot>151.346115</yRot>
+      <yRot>32.84959</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.22036076</xPos>
+      <xPos>-4.0935235</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.438279867</zPos>
+      <zPos>1.31825817</zPos>
       <xRot>-0</xRot>
-      <yRot>149.115784</yRot>
+      <yRot>34.84485</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.19408679</xPos>
+      <xPos>-4.05837631</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.395534068</zPos>
+      <zPos>1.36703813</zPos>
       <xRot>-0</xRot>
-      <yRot>147.443222</yRot>
+      <yRot>36.84908</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.15687275</xPos>
+      <xPos>-4.023383</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.33936125</zPos>
+      <zPos>1.41225815</zPos>
       <xRot>-0</xRot>
-      <yRot>145.197037</yRot>
+      <yRot>38.7551041</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.12199521</xPos>
+      <xPos>-3.98256016</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.290718973</zPos>
+      <zPos>1.46134686</zPos>
       <xRot>-0</xRot>
-      <yRot>143.2018</yRot>
+      <yRot>40.8834152</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.08730578</xPos>
+      <xPos>-3.94465518</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.2456869</zPos>
+      <zPos>1.50382948</zPos>
       <xRot>-0</xRot>
-      <yRot>141.306915</yRot>
+      <yRot>42.7813644</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.048278</xPos>
+      <xPos>-3.90350246</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.198434636</zPos>
+      <zPos>1.54690218</zPos>
       <xRot>-0</xRot>
-      <yRot>139.263931</yRot>
+      <yRot>44.7672157</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.02108717</xPos>
+      <xPos>-3.86077666</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.1674651</zPos>
+      <zPos>1.58861959</zPos>
       <xRot>-0</xRot>
-      <yRot>137.890152</yRot>
+      <yRot>46.7578</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.96449542</xPos>
+      <xPos>-3.81413364</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.107361689</zPos>
+      <zPos>1.631014</zPos>
       <xRot>-0</xRot>
-      <yRot>135.138062</yRot>
+      <yRot>48.8589478</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.92200565</xPos>
+      <xPos>-3.76818633</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.06584904</zPos>
+      <zPos>1.66986656</zPos>
       <xRot>-0</xRot>
-      <yRot>133.157867</yRot>
+      <yRot>50.8647842</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.87685442</xPos>
+      <xPos>-3.72301245</xPos>
       <yPos>1.5</yPos>
-      <zPos>0.0247424841</zPos>
+      <zPos>1.70547307</zPos>
       <xRot>-0</xRot>
-      <yRot>131.122421</yRot>
+      <yRot>52.7822</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.83421683</xPos>
+      <xPos>-3.674877</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.0114580868</zPos>
+      <zPos>1.7408241</zPos>
       <xRot>-0</xRot>
-      <yRot>129.257935</yRot>
+      <yRot>54.77304</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.79150867</xPos>
+      <xPos>-3.62582159</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.0454564542</zPos>
+      <zPos>1.77429748</zPos>
       <xRot>-0</xRot>
-      <yRot>127.438217</yRot>
+      <yRot>56.7527237</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.73601937</xPos>
+      <xPos>-3.57462239</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.08642505</zPos>
+      <zPos>1.80667818</zPos>
       <xRot>-0</xRot>
-      <yRot>125.138885</yRot>
+      <yRot>58.7721252</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.686305</xPos>
+      <xPos>-3.520634</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.120315112</zPos>
+      <zPos>1.83818829</zPos>
       <xRot>-0</xRot>
-      <yRot>123.133232</yRot>
+      <yRot>60.85592</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.639574</xPos>
+      <xPos>-3.47082329</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.1499094</zPos>
+      <zPos>1.86498642</zPos>
       <xRot>-0</xRot>
-      <yRot>121.289352</yRot>
+      <yRot>62.741394</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.58349752</xPos>
+      <xPos>-3.41509247</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.182739526</zPos>
+      <zPos>1.892527</zPos>
       <xRot>-0</xRot>
-      <yRot>119.123215</yRot>
+      <yRot>64.8137054</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.53103185</xPos>
+      <xPos>-3.3586607</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.210961819</zPos>
+      <zPos>1.91792476</zPos>
       <xRot>-0</xRot>
-      <yRot>117.1373</yRot>
+      <yRot>66.8766251</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.47868657</xPos>
+      <xPos>-3.30528</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.236843139</zPos>
+      <zPos>1.93974292</zPos>
       <xRot>-0</xRot>
-      <yRot>115.190758</yRot>
+      <yRot>68.79895</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.42748451</xPos>
+      <xPos>-3.24672937</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.260110766</zPos>
+      <zPos>1.961322</zPos>
       <xRot>-0</xRot>
-      <yRot>113.315971</yRot>
+      <yRot>70.8791</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.37006855</xPos>
+      <xPos>-3.191671</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.284246951</zPos>
+      <zPos>1.97945142</zPos>
       <xRot>-0</xRot>
-      <yRot>112.67926</yRot>
+      <yRot>72.81139</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.31915426</xPos>
+      <xPos>-3.13370085</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.305564135</zPos>
+      <zPos>1.99634778</zPos>
       <xRot>-0</xRot>
-      <yRot>112.790451</yRot>
+      <yRot>74.82426</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.26028848</xPos>
+      <xPos>-3.075554</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.330417246</zPos>
+      <zPos>2.0111146</zPos>
       <xRot>-0</xRot>
-      <yRot>113.047363</yRot>
+      <yRot>76.8241</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.2042892</xPos>
+      <xPos>-3.01583385</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.3544142</zPos>
+      <zPos>2.02405977</zPos>
       <xRot>-0</xRot>
-      <yRot>113.418594</yRot>
+      <yRot>78.86112</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.15001845</xPos>
+      <xPos>-2.958815</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.3781404</zPos>
+      <zPos>2.03436327</zPos>
       <xRot>-0</xRot>
-      <yRot>113.8979</yRot>
+      <yRot>80.79267</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.09505773</xPos>
+      <xPos>-2.898376</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.4027802</zPos>
+      <zPos>2.043159</zPos>
       <xRot>-0</xRot>
-      <yRot>114.505394</yRot>
+      <yRot>82.8286362</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.04194069</xPos>
+      <xPos>-2.838106</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.427321434</zPos>
+      <zPos>2.04974318</zPos>
       <xRot>-0</xRot>
-      <yRot>115.211143</yRot>
+      <yRot>84.8496857</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.9873327</xPos>
+      <xPos>-2.77905846</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.453443855</zPos>
+      <zPos>2.054128</zPos>
       <xRot>-0</xRot>
-      <yRot>116.061691</yRot>
+      <yRot>86.82345</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.9315809</xPos>
+      <xPos>-2.71822762</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.481213182</zPos>
+      <zPos>2.05650759</zPos>
       <xRot>-0</xRot>
-      <yRot>117.065018</yRot>
+      <yRot>88.85281</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.87868214</xPos>
+      <xPos>-2.65874863</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.508770764</zPos>
+      <zPos>2.056744</zPos>
       <xRot>-0</xRot>
-      <yRot>118.146278</yRot>
+      <yRot>90.83557</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.82640886</xPos>
+      <xPos>-2.59754848</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.537329137</zPos>
+      <zPos>2.05484128</zPos>
       <xRot>-0</xRot>
-      <yRot>119.344376</yRot>
+      <yRot>92.87671</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.77056575</xPos>
+      <xPos>-2.54124665</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.569497764</zPos>
+      <zPos>2.05115652</zPos>
       <xRot>-0</xRot>
-      <yRot>120.774681</yRot>
+      <yRot>94.75757</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.725233</xPos>
+      <xPos>-2.479607</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.5970588</zPos>
+      <zPos>2.04498219</zPos>
       <xRot>-0</xRot>
-      <yRot>122.055725</yRot>
+      <yRot>96.82261</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.69112813</xPos>
+      <xPos>-2.421564</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.618757367</zPos>
+      <zPos>2.03710437</zPos>
       <xRot>-0</xRot>
-      <yRot>123.094162</yRot>
+      <yRot>98.77522</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.62412786</xPos>
+      <xPos>-2.36079526</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.6639538</zPos>
+      <zPos>2.02668738</zPos>
       <xRot>-0</xRot>
-      <yRot>125.342537</yRot>
+      <yRot>100.830475</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.57617581</xPos>
+      <xPos>-2.30177</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.69891727</zPos>
+      <zPos>2.01439762</zPos>
       <xRot>-0</xRot>
-      <yRot>127.126022</yRot>
+      <yRot>102.840294</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.52734625</xPos>
+      <xPos>-2.24321532</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.737019956</zPos>
+      <zPos>2.000039</zPos>
       <xRot>-0</xRot>
-      <yRot>129.1131</yRot>
+      <yRot>104.850052</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.47823179</xPos>
+      <xPos>-2.18659639</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.778272033</zPos>
+      <zPos>1.98405957</zPos>
       <xRot>-0</xRot>
-      <yRot>131.2507</yRot>
+      <yRot>106.81115</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.43611407</xPos>
+      <xPos>-2.13018942</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.816269934</zPos>
+      <zPos>1.966036</zPos>
       <xRot>-0</xRot>
-      <yRot>133.141632</yRot>
+      <yRot>108.7851</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.39297938</xPos>
+      <xPos>-2.07300115</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.857912958</zPos>
+      <zPos>1.94553149</zPos>
       <xRot>-0</xRot>
-      <yRot>135.140274</yRot>
+      <yRot>110.810295</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.34901631</xPos>
+      <xPos>-2.01830363</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.9034916</zPos>
+      <zPos>1.92374146</zPos>
       <xRot>-0</xRot>
-      <yRot>137.251266</yRot>
+      <yRot>112.772972</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.30903029</xPos>
+      <xPos>-1.96047044</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.9480652</zPos>
+      <zPos>1.89828849</zPos>
       <xRot>-0</xRot>
-      <yRot>139.24736</yRot>
+      <yRot>114.879288</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.27633381</xPos>
+      <xPos>-1.907355</xPos>
       <yPos>1.5</yPos>
-      <zPos>-0.986965239</zPos>
+      <zPos>1.87262189</zPos>
       <xRot>-0</xRot>
-      <yRot>140.941284</yRot>
+      <yRot>116.845772</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.23434579</xPos>
+      <xPos>-1.85492814</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.04057682</zPos>
+      <zPos>1.845024</zPos>
       <xRot>-0</xRot>
-      <yRot>143.211319</yRot>
+      <yRot>118.82077</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.20207083</xPos>
+      <xPos>-1.80371416</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.08493</zPos>
+      <zPos>1.81577337</zPos>
       <xRot>-0</xRot>
-      <yRot>145.039841</yRot>
+      <yRot>120.786804</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.16613865</xPos>
+      <xPos>-1.751154</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.13805878</zPos>
+      <zPos>1.78325832</zPos>
       <xRot>-0</xRot>
-      <yRot>147.177933</yRot>
+      <yRot>122.847115</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.13354158</xPos>
+      <xPos>-1.70086288</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.1903764</zPos>
+      <zPos>1.74963272</zPos>
       <xRot>-0</xRot>
-      <yRot>149.232758</yRot>
+      <yRot>124.86377</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.10823786</xPos>
+      <xPos>-1.653106</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.234063</zPos>
+      <zPos>1.715223</zPos>
       <xRot>-0</xRot>
-      <yRot>150.915665</yRot>
+      <yRot>126.825943</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.078014</xPos>
+      <xPos>-1.60726738</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.29048526</zPos>
+      <zPos>1.679766</zPos>
       <xRot>-0</xRot>
-      <yRot>153.049362</yRot>
+      <yRot>128.757736</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.05189419</xPos>
+      <xPos>-1.55984616</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.34378541</zPos>
+      <zPos>1.64038074</zPos>
       <xRot>-0</xRot>
-      <yRot>155.027985</yRot>
+      <yRot>130.812653</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.02576673</xPos>
+      <xPos>-1.51378286</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.4021945</zPos>
+      <zPos>1.59924328</zPos>
       <xRot>-0</xRot>
-      <yRot>157.161</yRot>
+      <yRot>132.871368</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.00388479</xPos>
+      <xPos>-1.47260082</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.45632875</zPos>
+      <zPos>1.55982256</zPos>
       <xRot>-0</xRot>
-      <yRot>159.107422</yRot>
+      <yRot>134.771744</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.982710361</xPos>
+      <xPos>-1.4306426</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.51442885</zPos>
+      <zPos>1.516834</zPos>
       <xRot>-0</xRot>
-      <yRot>161.1688</yRot>
+      <yRot>136.7742</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.9641082</xPos>
+      <xPos>-1.388043</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.57177651</zPos>
+      <zPos>1.46992791</zPos>
       <xRot>-0</xRot>
-      <yRot>163.178528</yRot>
+      <yRot>138.886414</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.948205531</xPos>
+      <xPos>-1.35066772</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.62720549</zPos>
+      <zPos>1.425738</zPos>
       <xRot>-0</xRot>
-      <yRot>165.100769</yRot>
+      <yRot>140.8157</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.933473</xPos>
+      <xPos>-1.3124615</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.686129</zPos>
+      <zPos>1.377237</zPos>
       <xRot>-0</xRot>
-      <yRot>167.125458</yRot>
+      <yRot>142.873856</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.92132324</xPos>
+      <xPos>-1.27723122</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.74306571</zPos>
+      <zPos>1.32911789</zPos>
       <xRot>-0</xRot>
-      <yRot>169.0662</yRot>
+      <yRot>144.861862</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.9103717</xPos>
+      <xPos>-1.244217</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.80484772</zPos>
+      <zPos>1.28060627</zPos>
       <xRot>-0</xRot>
-      <yRot>171.1578</yRot>
+      <yRot>146.817947</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.9021398</xPos>
+      <xPos>-1.21175468</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.8631494</zPos>
+      <zPos>1.22913826</zPos>
       <xRot>-0</xRot>
-      <yRot>173.120544</yRot>
+      <yRot>148.84639</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.8965756</xPos>
+      <xPos>-1.18114233</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.91486442</zPos>
+      <zPos>1.17656922</zPos>
       <xRot>-0</xRot>
-      <yRot>174.854385</yRot>
+      <yRot>150.874237</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.8915023</xPos>
+      <xPos>-1.15337026</xPos>
       <yPos>1.5</yPos>
-      <zPos>-1.98464668</zPos>
+      <zPos>1.12511742</zPos>
       <xRot>-0</xRot>
-      <yRot>177.186768</yRot>
+      <yRot>152.0154</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.889509559</xPos>
+      <xPos>-1.12574267</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.040579</zPos>
+      <zPos>1.073199</zPos>
       <xRot>-0</xRot>
-      <yRot>179.05246</yRot>
+      <yRot>151.9204</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.8894996</xPos>
+      <xPos>-1.09737313</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.10654855</zPos>
+      <zPos>1.02022314</zPos>
       <xRot>-0</xRot>
-      <yRot>181.251556</yRot>
+      <yRot>151.7041</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.8916809</xPos>
+      <xPos>-1.0691725</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.166365</zPos>
+      <zPos>0.9681534</zPos>
       <xRot>-0</xRot>
-      <yRot>183.246841</yRot>
+      <yRot>151.3733</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.8957132</xPos>
+      <xPos>-1.038986</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.223208</zPos>
+      <zPos>0.9133312</zPos>
       <xRot>-0</xRot>
-      <yRot>185.146469</yRot>
+      <yRot>150.896729</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.902006</xPos>
+      <xPos>-1.00998521</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.28309941</zPos>
+      <zPos>0.8617757</zPos>
       <xRot>-0</xRot>
-      <yRot>187.153946</yRot>
+      <yRot>150.326187</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.9105196</xPos>
+      <xPos>-0.9801941</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.34353924</zPos>
+      <zPos>0.8101461</zPos>
       <xRot>-0</xRot>
-      <yRot>189.188614</yRot>
+      <yRot>149.633224</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.921096265</xPos>
+      <xPos>-0.9486607</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.40323544</zPos>
+      <zPos>0.757125437</zPos>
       <xRot>-0</xRot>
-      <yRot>191.209579</yRot>
+      <yRot>148.790283</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.9328161</xPos>
+      <xPos>-0.9189767</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.458318</zPos>
+      <zPos>0.708896041</zPos>
       <xRot>-0</xRot>
-      <yRot>193.086838</yRot>
+      <yRot>147.90596</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.9486024</xPos>
+      <xPos>-0.885167062</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.52150416</zPos>
+      <zPos>0.6560267</zPos>
       <xRot>-0</xRot>
-      <yRot>195.2579</yRot>
+      <yRot>146.80098</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.964400768</xPos>
+      <xPos>-0.8525642</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.57652354</zPos>
+      <zPos>0.607186556</zPos>
       <xRot>-0</xRot>
-      <yRot>197.166092</yRot>
+      <yRot>145.648117</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-0.983177662</xPos>
+      <xPos>-0.8186364</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.63414574</zPos>
+      <zPos>0.5586174</zPos>
       <xRot>-0</xRot>
-      <yRot>199.186356</yRot>
+      <yRot>144.368454</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.00076425</xPos>
+      <xPos>-0.7836762</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.682745</zPos>
+      <zPos>0.5109699</zPos>
       <xRot>-0</xRot>
-      <yRot>200.9092</yRot>
+      <yRot>142.9754</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.02692568</xPos>
+      <xPos>-0.7457494</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.74772835</zPos>
+      <zPos>0.461993247</zPos>
       <xRot>-0</xRot>
-      <yRot>203.244431</yRot>
+      <yRot>141.39032</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.0487045</xPos>
+      <xPos>-0.707458436</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.79668355</zPos>
+      <zPos>0.415339649</zPos>
       <xRot>-0</xRot>
-      <yRot>205.030518</yRot>
+      <yRot>139.723</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.07578135</xPos>
+      <xPos>-0.6679351</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.85243058</zPos>
+      <zPos>0.370023936</zPos>
       <xRot>-0</xRot>
-      <yRot>207.096451</yRot>
+      <yRot>137.940933</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.10586226</xPos>
+      <xPos>-0.6275844</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.908946</zPos>
+      <zPos>0.32662344</zPos>
       <xRot>-0</xRot>
-      <yRot>209.230637</yRot>
+      <yRot>136.0664</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.13590789</xPos>
+      <xPos>-0.586379647</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.96081543</zPos>
+      <zPos>0.285168022</zPos>
       <xRot>-0</xRot>
-      <yRot>211.228851</yRot>
+      <yRot>134.125687</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.1663152</xPos>
+      <xPos>-0.5416516</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.00939631</zPos>
+      <zPos>0.243199944</zPos>
       <xRot>-0</xRot>
-      <yRot>213.139328</yRot>
+      <yRot>132.08107</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.19842541</xPos>
+      <xPos>-0.495142519</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.05709243</zPos>
+      <zPos>0.202582076</zPos>
       <xRot>-0</xRot>
-      <yRot>215.056015</yRot>
+      <yRot>130.022659</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.233819</xPos>
+      <xPos>-0.450769931</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.10596347</zPos>
+      <zPos>0.1664584</zPos>
       <xRot>-0</xRot>
-      <yRot>217.0675</yRot>
+      <yRot>128.115341</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.27359772</xPos>
+      <xPos>-0.400152683</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.15690875</zPos>
+      <zPos>0.128131121</zPos>
       <xRot>-0</xRot>
-      <yRot>219.222137</yRot>
+      <yRot>125.998878</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.30497837</xPos>
+      <xPos>-0.352121472</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.194452</zPos>
+      <zPos>0.0943699852</zPos>
       <xRot>-0</xRot>
-      <yRot>220.853241</yRot>
+      <yRot>124.041809</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.35024178</xPos>
+      <xPos>-0.3029302</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.24502516</zPos>
+      <zPos>0.06226227</zPos>
       <xRot>-0</xRot>
-      <yRot>223.115738</yRot>
+      <yRot>122.083626</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.39124608</xPos>
+      <xPos>-0.252160162</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.287551</zPos>
+      <zPos>0.0315567032</zPos>
       <xRot>-0</xRot>
-      <yRot>225.084991</yRot>
+      <yRot>120.105766</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.427532</xPos>
+      <xPos>-0.197533876</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.32287431</zPos>
+      <zPos>0.00110884523</zPos>
       <xRot>-0</xRot>
-      <yRot>226.773071</yRot>
+      <yRot>118.021065</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.48242307</xPos>
+      <xPos>-0.14538987</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.37260914</zPos>
+      <zPos>-0.02559134</zPos>
       <xRot>-0</xRot>
-      <yRot>229.242325</yRot>
+      <yRot>116.068222</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.52243</xPos>
+      <xPos>-0.0912673</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.406223</zPos>
+      <zPos>-0.0509955175</zPos>
       <xRot>-0</xRot>
-      <yRot>230.984177</yRot>
+      <yRot>114.075188</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.57177854</xPos>
+      <xPos>-0.0344721079</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.44496512</zPos>
+      <zPos>-0.07526435</zPos>
       <xRot>-0</xRot>
-      <yRot>233.0756</yRot>
+      <yRot>112.016312</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.61894619</xPos>
+      <xPos>0.02062036</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.47933245</zPos>
+      <zPos>-0.09652651</zPos>
       <xRot>-0</xRot>
-      <yRot>235.021027</yRot>
+      <yRot>110.047775</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.674101</xPos>
+      <xPos>0.0764973238</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.51655746</zPos>
+      <zPos>-0.115911171</zPos>
       <xRot>-0</xRot>
-      <yRot>237.239227</yRot>
+      <yRot>108.076225</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.72379577</xPos>
+      <xPos>0.134431377</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.547538</zPos>
+      <zPos>-0.133777112</zPos>
       <xRot>-0</xRot>
-      <yRot>239.19133</yRot>
+      <yRot>106.05526</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.7758013</xPos>
+      <xPos>0.194155335</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.57750583</zPos>
+      <zPos>-0.149891272</zPos>
       <xRot>-0</xRot>
-      <yRot>241.192154</yRot>
+      <yRot>103.993149</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.820914</xPos>
+      <xPos>0.2510673</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.60159326</zPos>
+      <zPos>-0.163123533</zPos>
       <xRot>-0</xRot>
-      <yRot>242.8969</yRot>
+      <yRot>102.045387</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.87781167</xPos>
+      <xPos>0.309974879</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.62958646</zPos>
+      <zPos>-0.174702182</zPos>
       <xRot>-0</xRot>
-      <yRot>245.010742</yRot>
+      <yRot>100.044128</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.93851435</xPos>
+      <xPos>0.3698655</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.65665412</zPos>
+      <zPos>-0.184302166</zPos>
       <xRot>-0</xRot>
-      <yRot>247.226349</yRot>
+      <yRot>98.02219</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-1.98752475</xPos>
+      <xPos>0.426550239</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.67649746</zPos>
+      <zPos>-0.1914219</zPos>
       <xRot>-0</xRot>
-      <yRot>248.988922</yRot>
+      <yRot>96.11776</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.041577</xPos>
+      <xPos>0.486849546</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.69638133</zPos>
+      <zPos>-0.196890786</zPos>
       <xRot>-0</xRot>
-      <yRot>250.9088</yRot>
+      <yRot>94.09943</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.10801458</xPos>
+      <xPos>0.54328233</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.71824</zPos>
+      <zPos>-0.200075492</zPos>
       <xRot>-0</xRot>
-      <yRot>253.24025</yRot>
+      <yRot>92.21528</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.16136479</xPos>
+      <xPos>0.60721916</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.73348951</zPos>
+      <zPos>-0.201445237</zPos>
       <xRot>-0</xRot>
-      <yRot>255.089874</yRot>
+      <yRot>90.08344</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.21888471</xPos>
+      <xPos>0.6661524</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.74790454</zPos>
+      <zPos>-0.200599641</zPos>
       <xRot>-0</xRot>
-      <yRot>257.06662</yRot>
+      <yRot>88.1187057</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.28213072</xPos>
+      <xPos>0.725832641</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.76137829</zPos>
+      <zPos>-0.197680473</zPos>
       <xRot>-0</xRot>
-      <yRot>259.22226</yRot>
+      <yRot>86.12689</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.33433819</xPos>
+      <xPos>0.78818953</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.77060556</zPos>
+      <zPos>-0.192406863</zPos>
       <xRot>-0</xRot>
-      <yRot>260.989563</yRot>
+      <yRot>84.04081</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.39884853</xPos>
+      <xPos>0.8470345</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.779748</zPos>
+      <zPos>-0.185316175</zPos>
       <xRot>-0</xRot>
-      <yRot>263.16156</yRot>
+      <yRot>82.06502</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.44795918</xPos>
+      <xPos>0.9040755</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.785044</zPos>
+      <zPos>-0.176469445</zPos>
       <xRot>-0</xRot>
-      <yRot>264.8081</yRot>
+      <yRot>80.14087</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.514876</xPos>
+      <xPos>0.9638648</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.79004836</zPos>
+      <zPos>-0.165088549</zPos>
       <xRot>-0</xRot>
-      <yRot>267.045074</yRot>
+      <yRot>78.16884</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.57689762</xPos>
+      <xPos>1.02285159</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.79233146</zPos>
+      <zPos>-0.151807278</zPos>
       <xRot>-0</xRot>
-      <yRot>269.113953</yRot>
+      <yRot>76.33189</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.64046049</xPos>
+      <xPos>1.082312</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.79229045</zPos>
+      <zPos>-0.136642262</zPos>
       <xRot>-0</xRot>
-      <yRot>271.232849</yRot>
+      <yRot>75.44048</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.69712</xPos>
+      <xPos>1.13809609</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.7902782</zPos>
+      <zPos>-0.122194149</zPos>
       <xRot>-0</xRot>
-      <yRot>273.122772</yRot>
+      <yRot>75.5455246</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.75571823</xPos>
+      <xPos>1.197235</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.786224</zPos>
+      <zPos>-0.107056908</zPos>
       <xRot>-0</xRot>
-      <yRot>275.080841</yRot>
+      <yRot>75.77707</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.82067728</xPos>
+      <xPos>1.25801885</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.77936745</zPos>
+      <zPos>-0.0918266848</zPos>
       <xRot>-0</xRot>
-      <yRot>277.25827</yRot>
+      <yRot>76.1455</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.87942219</xPos>
+      <xPos>1.31567168</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.771142</zPos>
+      <zPos>-0.07782759</zPos>
       <xRot>-0</xRot>
-      <yRot>279.235565</yRot>
+      <yRot>76.6136856</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.93023443</xPos>
+      <xPos>1.37524033</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.76221275</zPos>
+      <zPos>-0.0639467537</zPos>
       <xRot>-0</xRot>
-      <yRot>280.955322</yRot>
+      <yRot>77.2193451</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.996373</xPos>
+      <xPos>1.43218207</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.74826121</zPos>
+      <zPos>-0.0513542667</zPos>
       <xRot>-0</xRot>
-      <yRot>283.208618</yRot>
+      <yRot>77.91274</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.052492</xPos>
+      <xPos>1.49237323</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.73423529</zPos>
+      <zPos>-0.03888756</zPos>
       <xRot>-0</xRot>
-      <yRot>285.136871</yRot>
+      <yRot>78.76625</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.11051273</xPos>
+      <xPos>1.547747</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.71760464</zPos>
+      <zPos>-0.0282941423</zPos>
       <xRot>-0</xRot>
-      <yRot>287.148865</yRot>
+      <yRot>79.65973</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.166235</xPos>
+      <xPos>1.60975754</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.69952488</zPos>
+      <zPos>-0.0175524075</zPos>
       <xRot>-0</xRot>
-      <yRot>289.101685</yRot>
+      <yRot>80.78211</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.22592187</xPos>
+      <xPos>1.66849077</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.677775</zPos>
+      <zPos>-0.008586472</zPos>
       <xRot>-0</xRot>
-      <yRot>291.21936</yRot>
+      <yRot>81.96293</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.27791619</xPos>
+      <xPos>1.72532153</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.65675449</zPos>
+      <zPos>-0.0011357225</zPos>
       <xRot>-0</xRot>
-      <yRot>293.088837</yRot>
+      <yRot>83.2137146</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.33337235</xPos>
+      <xPos>1.78784227</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.632119</zPos>
+      <zPos>0.005547731</zPos>
       <xRot>-0</xRot>
-      <yRot>295.111664</yRot>
+      <yRot>84.7119</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.39062142</xPos>
+      <xPos>1.845333</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.60415125</zPos>
+      <zPos>0.0101830252</zPos>
       <xRot>-0</xRot>
-      <yRot>297.235626</yRot>
+      <yRot>86.20205</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.44159055</xPos>
+      <xPos>1.90880966</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.577054</zPos>
+      <zPos>0.0134909218</zPos>
       <xRot>-0</xRot>
-      <yRot>299.159851</yRot>
+      <yRot>87.97251</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.48637414</xPos>
+      <xPos>1.96511292</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.5513072</zPos>
+      <zPos>0.0147253042</zPos>
       <xRot>-0</xRot>
-      <yRot>300.8818</yRot>
+      <yRot>89.65345</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.543699</xPos>
+      <xPos>2.02649784</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.5157125</zPos>
+      <zPos>0.0141364075</zPos>
       <xRot>-0</xRot>
-      <yRot>303.1312</yRot>
+      <yRot>91.6066055</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.59258652</xPos>
+      <xPos>2.08679581</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.48284</zPos>
+      <zPos>0.0114642307</zPos>
       <xRot>-0</xRot>
-      <yRot>305.094971</yRot>
+      <yRot>93.61501</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.640019</xPos>
+      <xPos>2.14590478</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.44844484</zPos>
+      <zPos>0.006778498</zPos>
       <xRot>-0</xRot>
-      <yRot>307.048126</yRot>
+      <yRot>95.5916</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.686469</xPos>
+      <xPos>2.206346</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.41232228</zPos>
+      <zPos>-0.0001432104</zPos>
       <xRot>-0</xRot>
-      <yRot>309.009644</yRot>
+      <yRot>97.6195755</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.737452</xPos>
+      <xPos>2.26583886</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.36959147</zPos>
+      <zPos>-0.009082109</zPos>
       <xRot>-0</xRot>
-      <yRot>311.227173</yRot>
+      <yRot>99.6250458</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.78029251</xPos>
+      <xPos>2.32477927</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.33096337</zPos>
+      <zPos>-0.0200564526</zPos>
       <xRot>-0</xRot>
-      <yRot>313.150055</yRot>
+      <yRot>101.623573</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.82033873</xPos>
+      <xPos>2.38382626</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.292371</zPos>
+      <zPos>-0.03320548</zPos>
       <xRot>-0</xRot>
-      <yRot>315.004</yRot>
+      <yRot>103.640137</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.867344</xPos>
+      <xPos>2.43787026</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.24374175</zPos>
+      <zPos>-0.0471750572</zPos>
       <xRot>-0</xRot>
-      <yRot>317.2586</yRot>
+      <yRot>105.500885</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.90467548</xPos>
+      <xPos>2.49889278</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.20226026</zPos>
+      <zPos>-0.06521912</zPos>
       <xRot>-0</xRot>
-      <yRot>319.1189</yRot>
+      <yRot>107.622154</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.94322157</xPos>
+      <xPos>2.55394936</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.156337</zPos>
+      <zPos>-0.08363136</zPos>
       <xRot>-0</xRot>
-      <yRot>321.117554</yRot>
+      <yRot>109.557373</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-3.9812057</xPos>
+      <xPos>2.61138415</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.107742</zPos>
+      <zPos>-0.105104417</zPos>
       <xRot>-0</xRot>
-      <yRot>323.1736</yRot>
+      <yRot>111.6014</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.017516</xPos>
+      <xPos>2.66524673</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.05764723</zPos>
+      <zPos>-0.127404049</zPos>
       <xRot>-0</xRot>
-      <yRot>325.236053</yRot>
+      <yRot>113.544685</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.050362</xPos>
+      <xPos>2.71992183</xPos>
       <yPos>1.5</yPos>
-      <zPos>-3.008812</zPos>
+      <zPos>-0.152291313</zPos>
       <xRot>-0</xRot>
-      <yRot>327.1979</yRot>
+      <yRot>115.5472</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.08246326</xPos>
+      <xPos>2.77393436</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.95733142</zPos>
+      <zPos>-0.179189339</zPos>
       <xRot>-0</xRot>
-      <yRot>329.2203</yRot>
+      <yRot>117.558594</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.110126</xPos>
+      <xPos>2.827095</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.90982533</zPos>
+      <zPos>-0.208046019</zPos>
       <xRot>-0</xRot>
-      <yRot>331.052765</yRot>
+      <yRot>119.574951</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.13938951</xPos>
+      <xPos>2.88121414</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.854861</zPos>
+      <zPos>-0.239991322</zPos>
       <xRot>-0</xRot>
-      <yRot>333.1285</yRot>
+      <yRot>121.669876</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.16495037</xPos>
+      <xPos>2.9284656</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.80255246</zPos>
+      <zPos>-0.27012983</zPos>
       <xRot>-0</xRot>
-      <yRot>335.069275</yRot>
+      <yRot>123.538139</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.191662</xPos>
+      <xPos>2.98105145</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.74253035</zPos>
+      <zPos>-0.30631265</zPos>
       <xRot>-0</xRot>
-      <yRot>337.259338</yRot>
+      <yRot>125.665977</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.212396</xPos>
+      <xPos>3.02789783</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.691099</zPos>
+      <zPos>-0.3410561</zPos>
       <xRot>-0</xRot>
-      <yRot>339.10788</yRot>
+      <yRot>127.610191</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.23221254</xPos>
+      <xPos>3.074251</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.63685513</zPos>
+      <zPos>-0.377952248</zPos>
       <xRot>-0</xRot>
-      <yRot>341.032959</yRot>
+      <yRot>129.585068</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.252087</xPos>
+      <xPos>3.119334</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.57584834</zPos>
+      <zPos>-0.4164604</zPos>
       <xRot>-0</xRot>
-      <yRot>343.171875</yRot>
+      <yRot>131.561508</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.26797676</xPos>
+      <xPos>3.16302657</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.52063012</zPos>
+      <zPos>-0.456456</zPos>
       <xRot>-0</xRot>
-      <yRot>345.087219</yRot>
+      <yRot>133.536087</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.283332</xPos>
+      <xPos>3.20697546</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.45893645</zPos>
+      <zPos>-0.499628752</zPos>
       <xRot>-0</xRot>
-      <yRot>347.2065</yRot>
+      <yRot>135.589752</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.29546833</xPos>
+      <xPos>3.24824357</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.40172315</zPos>
+      <zPos>-0.5431311</zPos>
       <xRot>-0</xRot>
-      <yRot>349.156158</yRot>
+      <yRot>137.5886</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-4.3046217</xPos>
+      <xPos>3.2880404</xPos>
       <yPos>1.5</yPos>
-      <zPos>-2.35045385</zPos>
+      <zPos>-0.5881418</zPos>
       <xRot>-0</xRot>
-      <yRot>350.892242</yRot>
+      <yRot>139.591385</yRot>
       <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.31415653</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-2.28376</zPos>
-      <xRot>-0</xRot>
-      <yRot>353.138123</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.320345</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-2.22510147</zPos>
-      <xRot>-0</xRot>
-      <yRot>355.10434</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.32453346</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-2.16595435</zPos>
-      <xRot>-0</xRot>
-      <yRot>357.080933</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.3266716</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-2.10734248</zPos>
-      <xRot>-0</xRot>
-      <yRot>359.036072</yRot>
-      <zRot>0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.326788</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-2.04646754</zPos>
-      <xRot>-0</xRot>
-      <yRot>1.06533587</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.32467031</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.98466551</zPos>
-      <xRot>-0</xRot>
-      <yRot>3.12671065</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.32030964</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.92248678</zPos>
-      <xRot>-0</xRot>
-      <yRot>5.204531</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.31469774</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.8688314</zPos>
-      <xRot>-0</xRot>
-      <yRot>7.002868</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.30563927</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.8039906</zPos>
-      <xRot>-0</xRot>
-      <yRot>9.185349</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.296844</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.75354958</zPos>
-      <xRot>-0</xRot>
-      <yRot>10.8921471</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.2826643</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.68608117</zPos>
-      <xRot>-0</xRot>
-      <yRot>13.1904144</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.26949</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.63301361</zPos>
-      <xRot>-0</xRot>
-      <yRot>15.0002375</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.251909</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.57125711</zPos>
-      <xRot>-0</xRot>
-      <yRot>17.01485</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.23382235</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.51472723</zPos>
-      <xRot>-0</xRot>
-      <yRot>18.7526</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.213575</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.45746052</zPos>
-      <xRot>-0</xRot>
-      <yRot>20.4109936</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.201535</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.42566872</zPos>
-      <xRot>-0</xRot>
-      <yRot>21.2855873</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.17054272</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.34920859</zPos>
-      <xRot>-0</xRot>
-      <yRot>23.2356529</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.147143</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.296076</zPos>
-      <xRot>-0</xRot>
-      <yRot>24.4801559</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.11896372</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.23579323</zPos>
-      <xRot>-0</xRot>
-      <yRot>25.7689152</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.09544563</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.18791211</zPos>
-      <xRot>-0</xRot>
-      <yRot>26.6947289</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.06546</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.12940788</zPos>
-      <xRot>-0</xRot>
-      <yRot>27.7047119</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.03851557</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.07881844</zPos>
-      <xRot>-0</xRot>
-      <yRot>28.4690666</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-4.01003647</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-1.02694237</zPos>
-      <xRot>-0</xRot>
-      <yRot>29.1430855</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.98072743</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.9749116</zPos>
-      <xRot>-0</xRot>
-      <yRot>29.7048111</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.94757462</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.917324841</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.1903858</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.91840482</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.867464364</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.4930172</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.88933229</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.8182727</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.6829453</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.858833</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.7669628</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7648087</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.82571459</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.711332858</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.79497862</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.659705162</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.76591635</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.610889</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.736307</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.5611536</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.70682764</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.5116363</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.67196059</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.453069478</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.646721</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.4106738</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.61202836</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.3524001</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.582646</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.303046227</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.55313468</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.2534753</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.51855922</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.195398524</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.48808885</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.144217</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.4588294</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.09506907</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.428432</xPos>
-      <yPos>1.5</yPos>
-      <zPos>-0.0440105237</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.39824939</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.006687403</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.36594725</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.060946513</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.3362124</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.110892504</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.3059504</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.161723971</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.275405</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.213031814</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.24231529</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.268612534</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.21186018</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.3197683</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.18671918</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.3619983</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.15224123</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.419911683</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.122352</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.47011748</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.09249043</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.520275652</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.061869</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.5717116</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-3.03166819</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.6224402</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.99795413</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.6790701</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.96759415</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.7300663</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7669735</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.93531418</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.7843047</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.7219658</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.906157</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.8334753</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.5717964</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.87861919</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.8802663</zPos>
-      <xRot>-0</xRot>
-      <yRot>30.3272114</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.84405446</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.939778566</zPos>
-      <xRot>-0</xRot>
-      <yRot>29.8753033</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.81616664</xPos>
-      <yPos>1.5</yPos>
-      <zPos>0.9887149</zPos>
-      <xRot>-0</xRot>
-      <yRot>29.3894634</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.78760886</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.03994834</zPos>
-      <xRot>-0</xRot>
-      <yRot>28.7708988</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.75954747</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.091706</zPos>
-      <xRot>-0</xRot>
-      <yRot>28.0348911</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.732528</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.14317679</zPos>
-      <xRot>-0</xRot>
-      <yRot>27.1931114</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.70381784</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.20012474</zPos>
-      <xRot>-0</xRot>
-      <yRot>26.14098</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.67871737</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.25223887</zPos>
-      <xRot>-0</xRot>
-      <yRot>25.06758</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.65125561</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.31253374</zPos>
-      <xRot>-0</xRot>
-      <yRot>23.703989</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.627927</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.3671236</zPos>
-      <xRot>-0</xRot>
-      <yRot>22.35785</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.61203027</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.4065702</zPos>
-      <xRot>-0</xRot>
-      <yRot>21.3212852</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.58624887</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.475206</zPos>
-      <xRot>-0</xRot>
-      <yRot>19.3821812</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.56642056</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.53392029</zPos>
-      <xRot>-0</xRot>
-      <yRot>17.6101131</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.5501864</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.58738</zPos>
-      <xRot>-0</xRot>
-      <yRot>15.905098</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.53292131</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.65193343</zPos>
-      <xRot>-0</xRot>
-      <yRot>13.7300835</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.52210927</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.698336</zPos>
-      <xRot>-0</xRot>
-      <yRot>12.1876411</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.50831437</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.76765847</zPos>
-      <xRot>-0</xRot>
-      <yRot>10.0390539</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.49878144</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.82575667</zPos>
-      <xRot>-0</xRot>
-      <yRot>8.374882</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.491173</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.88180768</zPos>
-      <xRot>-0</xRot>
-      <yRot>6.884595</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.48472834</xPos>
-      <yPos>1.5</yPos>
-      <zPos>1.94056547</zPos>
-      <xRot>-0</xRot>
-      <yRot>5.44160938</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.47916818</xPos>
-      <yPos>1.5</yPos>
-      <zPos>2.00707054</zPos>
-      <xRot>-0</xRot>
-      <yRot>3.952265</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.47576427</xPos>
-      <yPos>1.5</yPos>
-      <zPos>2.063433</zPos>
-      <xRot>-0</xRot>
-      <yRot>2.80795979</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.473377</xPos>
-      <yPos>1.5</yPos>
-      <zPos>2.12182</zPos>
-      <xRot>-0</xRot>
-      <yRot>1.73587024</yRot>
-      <zRot>-0</zRot>
-    </GhostPosition>
-    <GhostPosition>
-      <xPos>-2.4719367</xPos>
-      <yPos>1.5</yPos>
-      <zPos>2.1874485</zPos>
-      <xRot>-0</xRot>
-      <yRot>0.666945338</yRot>
-      <zRot>-0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.47162747</xPos>
+      <xPos>3.32634187</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.24490619</zPos>
+      <zPos>-0.6346321</zPos>
       <xRot>-0</xRot>
-      <yRot>359.8492</yRot>
+      <yRot>141.59935</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.47213936</xPos>
+      <xPos>3.36177659</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.306204</zPos>
+      <zPos>-0.6808015</zPos>
       <xRot>-0</xRot>
-      <yRot>359.0993</yRot>
+      <yRot>143.53949</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.473316</xPos>
+      <xPos>3.397309</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.36411166</zPos>
+      <zPos>-0.730579555</zPos>
       <xRot>-0</xRot>
-      <yRot>358.504974</yRot>
+      <yRot>145.578217</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.47504067</xPos>
+      <xPos>3.431021</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.42187619</zPos>
+      <zPos>-0.781478167</zPos>
       <xRot>-0</xRot>
-      <yRot>358.023224</yRot>
+      <yRot>147.577347</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.47725344</xPos>
+      <xPos>3.46179557</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.48089</zPos>
+      <zPos>-0.831527</zPos>
       <xRot>-0</xRot>
-      <yRot>357.646149</yRot>
+      <yRot>149.460968</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.480122</xPos>
+      <xPos>3.488253</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.54689574</zPos>
+      <zPos>-0.87775743</zPos>
       <xRot>-0</xRot>
-      <yRot>357.362152</yRot>
+      <yRot>151.164047</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.48265</xPos>
+      <xPos>3.509705</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.600567</zPos>
+      <zPos>-0.9177609</zPos>
       <xRot>-0</xRot>
-      <yRot>357.239</yRot>
+      <yRot>152.611252</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.48520565</xPos>
+      <xPos>3.531975</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.653191</zPos>
+      <zPos>-0.9620612</zPos>
       <xRot>-0</xRot>
-      <yRot>357.209534</yRot>
+      <yRot>154.186615</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.48811</xPos>
+      <xPos>3.548058</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.71277714</zPos>
+      <zPos>-0.9960972</zPos>
       <xRot>-0</xRot>
-      <yRot>357.209534</yRot>
+      <yRot>155.377991</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.490594</xPos>
+      <xPos>3.56726646</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.76374078</zPos>
+      <zPos>-1.03929663</zPos>
       <xRot>-0</xRot>
-      <yRot>357.209534</yRot>
+      <yRot>156.866684</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.492883</xPos>
+      <xPos>3.57997417</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.81069565</zPos>
+      <zPos>-1.06970215</zPos>
       <xRot>-0</xRot>
-      <yRot>357.209534</yRot>
+      <yRot>157.898041</yRot>
       <zRot>0</zRot>
     </GhostPosition>
     <GhostPosition>
-      <xPos>-2.49466872</xPos>
+      <xPos>3.59224033</xPos>
       <yPos>1.5</yPos>
-      <zPos>2.84733653</zPos>
+      <zPos>-1.10061514</zPos>
       <xRot>-0</xRot>
-      <yRot>357.209534</yRot>
+      <yRot>158.93161</yRot>
       <zRot>0</zRot>
     </GhostPosition>
   </myGhostPos>
